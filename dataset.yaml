@@ -1,6 +1,6 @@
 # train and val data
-train: ../dronedataset/images/train/
-val: ../dronedataset/images/val/
+train: ../uavdataset/images/train/
+val: ../uavdataset/images/val/
 
 # number of classes
 nc: 1
